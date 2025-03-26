@@ -22,6 +22,6 @@ I'm building an OSINT portfolio to showcase my investigative skills. Check out m
 
 ## 📫 Connect With Me 
 - **LinkedIn:** linkedIn.com/in/graham-k-cyber
-- **TryHackMe:** R3volution
+- **TryHackMe:** tryhackme.com/p/R3volution
 
 I'm always open to connecting with like-minded professionals and discussing all things cybersecurity and OSINT. Let’s build something great together! 
